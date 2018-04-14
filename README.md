@@ -11,3 +11,4 @@ A 3d, open world, tank fighting game.  Made via Unreal course on Udemy
 * BT05 Code Generation (for real this time)
 * BT06 Basic terrain creation
 * BT07 Paint Landscape, setup basic layers
+* BT08 Update Landscape
